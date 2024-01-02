@@ -1,4 +1,4 @@
-# Projeto Mysql - Sistema de Controle de Pessoal
+# Projeto MySQL - Sistema de Controle de Pessoal
 
  ## Cenario apresentado:
 As empresas têm como seu principal patrimônio as pessoas que nela trabalham. Os funcionários
