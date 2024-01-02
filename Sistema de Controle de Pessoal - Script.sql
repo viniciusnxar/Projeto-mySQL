@@ -491,16 +491,16 @@ INSERT INTO controle_pessoas.tbl_telefones (numero, idFuncionario) VALUES
 ('9876-5432', 9),
 ('1234-5678', 10);
 
-INSERT INTO tbl_competencia(nome) VALUES ('Competência 01');
-INSERT INTO tbl_competencia(nome) VALUES ('Competência 02');
-INSERT INTO tbl_competencia(nome) VALUES ('Competência 03');
-INSERT INTO tbl_competencia(nome) VALUES ('Competência 04');
-INSERT INTO tbl_competencia(nome) VALUES ('Competência 05');
-INSERT INTO tbl_competencia(nome) VALUES ('Competência 06');
-INSERT INTO tbl_competencia(nome) VALUES ('Competência 07');
-INSERT INTO tbl_competencia(nome) VALUES ('Competência 08');
-INSERT INTO tbl_competencia(nome) VALUES ('Competência 09');
-INSERT INTO tbl_competencia(nome) VALUES ('Competência 10');
+insert into tbl_competencia(nome) values ('Competência 01');
+insert into tbl_competencia(nome) values ('Competência 02');
+insert into tbl_competencia(nome) values ('Competência 03');
+insert into tbl_competencia(nome) values ('Competência 04');
+insert into tbl_competencia(nome) values ('Competência 05');
+insert into tbl_competencia(nome) values ('Competência 06');
+insert into tbl_competencia(nome) values ('Competência 07');
+insert into tbl_competencia(nome) values ('Competência 08');
+insert into tbl_competencia(nome) values ('Competência 09');
+insert into tbl_competencia(nome) values ('Competência 10');
 
 -- Inserção de dados adicionais na tabela tbl_curriculo_has_tbl_cursos
 INSERT INTO controle_pessoas.tbl_curriculo_has_tbl_cursos 
